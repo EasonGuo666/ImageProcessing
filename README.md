@@ -1,4 +1,5 @@
-# 🌼ImageProcessing description
+# 🌼ImageProcessing 
+## Description:
     BITCS Image processing course project using opencv
 ## Task 1:
     Manipulated the RGM field of images to achieve three filters in different styles.
